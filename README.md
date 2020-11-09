@@ -1,4 +1,4 @@
-## Webcam-Face-Detect
+## OpenCV Face Recognition
 
 Run the program like this:
 
